@@ -1,0 +1,35 @@
+
+
+body {
+  background-color: #FDF6EC
+}
+  h1 {
+    color: #B8F1B0;
+    margin: 2px;
+  }
+
+  h3 {
+    color: #6D8B74;
+    margin: 0.5px;
+  }
+
+  hr {
+    width: 30%;
+    border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+
+  }
+  ul {
+    font-style: normal;
+    font-weight: normal;
+    margin: 1px;
+  }
+  table {
+    font-size: 20px;
+    margin-top: 1px;
+  }
+  p {
+    margin: 0.5px;
+  }
